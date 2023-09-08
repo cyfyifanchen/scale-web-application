@@ -8,5 +8,5 @@ Here is what I think:
 ![Web scale](images/web-scale.png)
 
 
-### Edge service
+### Edge function
 ![Web scale](images/web-scale-2.png)
