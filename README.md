@@ -10,3 +10,5 @@ Here is what I think:
 
 ### Edge function
 ![Web scale](images/web-scale-2.png)
+
+Edge function is an idea from edge computing, bascially having functions/servers/DBS as close as possible to the user, in terms of distance, so that has an extreme speed. It also looks like the industry is going this way.
